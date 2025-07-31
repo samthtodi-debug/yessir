@@ -168,7 +168,7 @@ with col2:
         }
         </style>
         <a href="https://open.spotify.com/playlist/3fvp6A6BMDnBWUYNEgKeFp?si=f6Z4krQNTvSxeoL04JQlKw" target="_blank">
-            <button class="custom-button">🎵 Our Song</button>
+            <button class="custom-button">🎵 A Playlist</button>
         </a>
     """, unsafe_allow_html=True)
 
