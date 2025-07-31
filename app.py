@@ -193,15 +193,15 @@ st.markdown("""
 # Final message
 st.markdown("""
     <div style="padding: 1em; text-align: center;">
-        <h2 style="color: #d63384;">Soumya-isms 💖</h2>
-        <ul style="list-style-type: none; padding-left: 0; color: #ffb6c1; font-size: 1.1em;">
+        <h2 style="color: #ff69b4;">Soumya-isms 💖</h2>
+        <ul style="list-style-type: none; padding-left: 0; color: #ffffff; font-size: 1.1em;">
             <li>Nap queen behavior 💤</li>
-            <li>Random voice notes at <span style="color: #ff9ecb;">2am</span></li>
+            <li>Random voice notes at <span style="color: #ffc0cb;">2am</span></li>
             <li>Calling me broski and then being cute 5 seconds later 😵‍💫</li>
         </ul>
         <div style="margin-top: 2rem;">
             <h3 style="color: #ff1493; font-size: 2.2em; margin-bottom: 0.5em;">I LOVE YOU! 💕💕💕</h3>
-            <p style="font-style: italic; color: #6c757d; font-size: 1em;">– Too late to run now. You picked me, suffer 😘</p>
+            <p style="font-style: italic; color: #f8f9fa; font-size: 1em;">– Too late to run now. You picked me, suffer 😘</p>
         </div>
     </div>
 """, unsafe_allow_html=True)
