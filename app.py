@@ -116,30 +116,31 @@ st.markdown("""
 st.markdown('<h1 class="love-title">Soumya a.k.a. Somzilla 💕</h1>', unsafe_allow_html=True)
 
 st.markdown("""
-<div class="message-box">
-    <h2 style="color: #d63384; margin-bottom: 25px;">You Are My Favourite Headache 💖</h2>
-    
-    Hey my Goddess,
+<div style="font-size:18px; line-height:1.6; color:#ffefff; background-color:#1e1e2f; padding:20px; border-radius:10px;">
+    Hey my Goddess,<br><br>
 
-I don’t even know where to start, so I’ll just say this:
-You’re kinda stuck with me now. Forever. Sorry. Too late. Can’t escape. Dumbass move loving me but also the best one you ever made 😎
+    I don’t even know where to start, so I’ll just say this:<br>
+    You’re kinda stuck with me now. Forever. Sorry. Too late. Can’t escape. Dumbass move loving me but also the best one you ever made 😎<br><br>
 
-You’ve got this annoying habit of making my whole day better just by existing. I don’t even get how you do that. Like, I’ll be dying, and then boom — one "hey" from you and I’m smiling like an idiot.
+    You’ve got this annoying habit of making my whole day better just by existing. I don’t even get how you do that. Like, I’ll be dying, and then boom — one "hey" from you and I’m smiling like an idiot.<br><br>
 
-You’re chaos, you're sweet, you're dramatic as hell, and you're mine.
+    You’re chaos, you're sweet, you're dramatic as hell, and you're mine.<br><br>
 
-I love the way you talk, the way you type like you’re half-asleep, the way you call me out and still stay, and the way you make me feel like I actually matter to someone.
+    I love the way you talk, the way you type like you’re half-asleep, the way you call me out and still stay, and the way you make me feel like I actually matter to someone.<br><br>
 
-Sometimes I scroll through our chats just to feel that again. Sometimes I miss you even when we’ve just talked.
+    Sometimes I scroll through our chats just to feel that again. Sometimes I miss you even when we’ve just talked.<br><br>
 
-I don’t say this stuff every day, but I swear on everything — I mean it. You make life better. For real.
+    I don’t say this stuff every day, but I swear on everything — I mean it. You make life better. For real.<br><br>
 
-So here’s a tiny dumb website to say what I usually mess up saying in texts:
-You’re everything. You’re mine. You’re amazing. You’re loved.
+    So here’s a tiny dumb website to say what I usually mess up saying in texts:<br>
+    You’re everything. You’re mine. You’re amazing. You’re loved.<br><br>
 
-…And yes, you’re stuck with me now. No returns. No refunds. Good luck. 😌
+    …And yes, you’re stuck with me now. No returns. No refunds. Good luck. 😌<br><br>
 
-– sam-my lil baddie 🫶
+    – sam · my lil baddie 🫶
+</div>
+""", unsafe_allow_html=True)
+
     
 </div>
 """, unsafe_allow_html=True)
@@ -204,11 +205,12 @@ st.markdown("""
 st.markdown("""
 <div class="message-box">
     <h2 style="color: #d63384;">Soumya-isms 💖</h2>
-    <p class="love-text">
-    Nap queen behavior 🛏
-Random voice notes at 2am
-Calling me broski and then being cute 5 seconds later
-    </p>
+    <ul class="love-text">
+    <li>Nap queen behavior 💤</li>
+    <li>Random voice notes at <span style="color: #ff9ecb;">2am</span></li>
+    <li>Calling me broski and then being cute 5 seconds later 😵‍💫</li>
+</ul>
+    
     <h1 style="color: #ff1493; font-size: 2.5em;">I LOVE YOU! 💕💕💕</h1>
     <p style="font-style: italic; color: #6c757d;">- Too late to run now.You picked me, suffer 😘</p>
 </div>
