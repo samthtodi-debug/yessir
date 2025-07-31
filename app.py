@@ -200,8 +200,10 @@ st.markdown("""
         <li>Calling me broski and then being cute 5 seconds later 😵‍💫</li>
     </ul>
 
-    <h1 style="color: #ff1493; font-size: 2.5em; margin-top: 1rem;">I LOVE YOU! 💕💕💕</h1>
-    <p style="font-style: italic; color: #6c757d;">- Too late to run now. You picked me, suffer 😘</p>
+    <div style="margin-top: 2rem; text-align: center;">
+        <p style="font-size: 2.5em; font-weight: bold; color: #ff1493;">I LOVE YOU! 💕💕💕</p>
+        <p style="margin-top: 10px; font-style: italic; color: #6c757d;">– Too late to run now. You picked me, suffer 😘</p>
+    </div>
 </div>
 """, unsafe_allow_html=True)
 
