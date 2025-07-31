@@ -3,7 +3,7 @@ import random
 
 # Configure page
 st.set_page_config(
-    page_title="For My Amazing Girlfriend ❤️",
+    page_title="Soumya a.k.a. Somzilla ❤️",
     page_icon="💕",
     layout="centered"
 )
@@ -113,54 +113,74 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main content
-st.markdown('<h1 class="love-title">To My Beautiful Girlfriend 💕</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="love-title">Soumya a.k.a. Somzilla 💕</h1>', unsafe_allow_html=True)
 
 st.markdown("""
 <div class="message-box">
-    <h2 style="color: #d63384; margin-bottom: 25px;">You Are My Everything 💖</h2>
+    <h2 style="color: #d63384; margin-bottom: 25px;">You Are My Favourite Headache 💖</h2>
     
-    <p class="love-text">
-    From the moment you walked into my life, everything changed for the better. 
-    Your smile lights up my darkest days, your laugh is my favorite sound, 
-    and your love gives me strength I never knew I had.
-    </p>
+    Hey my Goddess,
+
+I don’t even know where to start, so I’ll just say this:
+You’re kinda stuck with me now. Forever. Sorry. Too late. Can’t escape. Dumbass move loving me but also the best one you ever made 😎
+
+You’ve got this annoying habit of making my whole day better just by existing. I don’t even get how you do that. Like, I’ll be dying, and then boom — one "hey" from you and I’m smiling like an idiot.
+
+You’re chaos, you're sweet, you're dramatic as hell, and you're mine.
+
+I love the way you talk, the way you type like you’re half-asleep, the way you call me out and still stay, and the way you make me feel like I actually matter to someone.
+
+Sometimes I scroll through our chats just to feel that again. Sometimes I miss you even when we’ve just talked.
+
+I don’t say this stuff every day, but I swear on everything — I mean it. You make life better. For real.
+
+So here’s a tiny dumb website to say what I usually mess up saying in texts:
+You’re everything. You’re mine. You’re amazing. You’re loved.
+
+…And yes, you’re stuck with me now. No returns. No refunds. Good luck. 😌
+
+– sam-my lil baddie 🫶
     
-    <p class="love-text">
-    You're not just my girlfriend - you're my best friend, my partner in crime, 
-    my safe haven, and my greatest adventure all in one amazing person.
-    </p>
-    
-    <h3 style="color: #ff1493; margin: 30px 0;">I LOVE YOU SO MUCH! 💕</h3>
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="heart-divider">💖 💕 💗 💝 💖 💕 💗 💝 💖</div>', unsafe_allow_html=True)
+st.markdown('<div class="heart-divider">❤️ 💖 💘 💝 💗 💓 💞 💕 💟</div>', unsafe_allow_html=True)
 
 # Interactive section
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    if st.button("💕 Love Note", use_container_width=True):
+    if st.button("💕 From the Heart", use_container_width=True):
         love_notes = [
             "You are the reason I believe in love 💖",
-            "My heart skips a beat every time I see you 💓",
             "You're my favorite notification 📱💕",
             "I fall for you more and more every day 🥰",
             "You're my sunshine on cloudy days ☀️",
-            "With you, I'm home 🏠💕"
         ]
         st.success(random.choice(love_notes))
 
 with col2:
-    if st.button("🎵 Our Song", use_container_width=True):
-        songs = [
-            "🎵 'Perfect' by Ed Sheeran",
-            "🎵 'All of Me' by John Legend", 
-            "🎵 'Thinking Out Loud'",
-            "🎵 'A Thousand Years'",
-            "🎵 'Can't Help Myself'"
-        ]
-        st.info(random.choice(songs))
+    st.markdown("""
+        <style>
+        .custom-button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #ff69b4;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .custom-button:hover {
+            background-color: #ff85c1;
+        }
+        </style>
+        <a href="https://open.spotify.com/playlist/3fvp6A6BMDnBWUYNEgKeFp?si=f6Z4krQNTvSxeoL04JQlKw" target="_blank">
+            <button class="custom-button">🎵 Our Song</button>
+        </a>
+    """, unsafe_allow_html=True)
 
 with col3:
     if st.button("🤗 Virtual Hug", use_container_width=True):
@@ -172,10 +192,10 @@ st.markdown("""
 <div class="message-box">
     <h3 style="color: #d63384;">Why I Love You 💕</h3>
     <p class="love-text">💖 Your beautiful smile that brightens my entire day</p>
-    <p class="love-text">💖 The way you laugh at my terrible jokes</p>
+    <p class="love-text">💖 you're MY chaos and I wouldn't want it any other way</p>
     <p class="love-text">💖 How you always know exactly what to say</p>
     <p class="love-text">💖 Your kindness and caring heart</p>
-    <p class="love-text">💖 The way you support my dreams</p>
+    <p class="love-text">💖 Because even when you say ‘stfu’ or roast me for no reason, I still think you’re the cutest person alive</p>
     <p class="love-text">💖 How you make ordinary moments magical</p>
 </div>
 """, unsafe_allow_html=True)
@@ -183,14 +203,15 @@ st.markdown("""
 # Final message
 st.markdown("""
 <div class="message-box">
-    <h2 style="color: #d63384;">Thank You For Being YOU 💖</h2>
+    <h2 style="color: #d63384;">Soumya-isms 💖</h2>
     <p class="love-text">
-    Thank you for loving me, supporting me, and making life so much brighter. 
-    You're my person, my love, my everything.
+    Nap queen behavior 🛏
+Random voice notes at 2am
+Calling me broski and then being cute 5 seconds later
     </p>
     <h1 style="color: #ff1493; font-size: 2.5em;">I LOVE YOU! 💕💕💕</h1>
-    <p style="font-style: italic; color: #6c757d;">- Your boyfriend who adores you 😘</p>
+    <p style="font-style: italic; color: #6c757d;">- Too late to run now.You picked me, suffer 😘</p>
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="heart-divider">💖💕💗💝💖💕💗💝💖💕💗💝💖</div>', unsafe_allow_html=True)
+st.markdown('<div class="heart-divider">🐻 🐼 🐨 🐶 🐱 🐰 🦄 🐣 🎈</div>', unsafe_allow_html=True)
