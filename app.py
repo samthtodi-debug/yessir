@@ -116,29 +116,23 @@ st.markdown("""
 st.markdown('<h1 class="love-title">Soumya a.k.a. Somzilla 💕</h1>', unsafe_allow_html=True)
 
 st.markdown("""
-<div class="love-letter">
-  <p>Hey my Goddess,</p>
+<div style="max-width: 100%; word-wrap: break-word; white-space: normal; overflow-wrap: break-word; font-size: 16px; line-height: 1.6;">
 
-  <p>I don’t even know where to start, so I’ll just say this:<br>
-  You’re kinda stuck with me now. Forever. Sorry. Too late. Can’t escape. Dumbass.</p>
+Hey my Goddess,<br><br>
+I don’t even know where to start, so I’ll just say this:<br>
+You’re kinda stuck with me now. Forever. Sorry. Too late. Can’t escape. Dumbass.<br><br>
+You’ve got this annoying habit of making my whole day better just by existing.<br><br>
+You’re chaos, you're sweet, you're dramatic as hell, and you're mine.<br><br>
+I love the way you talk, the way you type like you’re half-asleep, the way you roll your eyes through texts.<br><br>
+Sometimes I scroll through our chats just to feel that again. Sometimes I miss you even when you’re right here.<br><br>
+I don’t say this stuff every day, but I swear on everything — I mean it. You mean everything.<br><br>
+So here’s a tiny dumb website to say what I usually mess up saying in texts:<br>
+You’re everything. You’re mine. You’re amazing. You’re loved.<br><br>
+…And yes, you’re stuck with me now. No returns. No refunds. Good luck. 😌<br><br>
+– sam • my lil baddie 👑
 
-  <p>You’ve got this annoying habit of making my whole day better just by existing.</p>
-
-  <p>You’re chaos, you're sweet, you're dramatic as hell, and you're mine.</p>
-
-  <p>I love the way you talk, the way you type like you’re half-asleep, the way you roll your eyes through texts.</p>
-
-  <p>Sometimes I scroll through our chats just to feel that again. Sometimes I miss you even when you’re right here.</p>
-
-  <p>I don’t say this stuff every day, but I swear on everything — I mean it. You mean everything.</p>
-
-  <p>So here’s a tiny dumb website to say what I usually mess up saying in texts:<br>
-  You’re everything. You’re mine. You’re amazing. You’re loved.</p>
-
-  <p>…And yes, you’re stuck with me now. No returns. No refunds. Good luck. 😌</p>
-
-  <p>– sam • my lil baddie 👑</p>
 </div>
+""", unsafe_allow_html=True)
 
 st.markdown('<div class="heart-divider">❤️ 💖 💘 💝 💗 💓 💞 💕 💟</div>', unsafe_allow_html=True)
 
