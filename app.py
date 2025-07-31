@@ -192,19 +192,19 @@ st.markdown("""
 
 # Final message
 st.markdown("""
-<div class="message-box">
-    <h2 style="color: #d63384;">Soumya-isms 💖</h2>
-    <ul class="love-text">
-        <li>Nap queen behavior 💤</li>
-        <li>Random voice notes at <span style="color: #ff9ecb;">2am</span></li>
-        <li>Calling me broski and then being cute 5 seconds later 😵‍💫</li>
-    </ul>
-
-    <div style="margin-top: 2rem; text-align: center;">
-        <p style="font-size: 2.5em; font-weight: bold; color: #ff1493;">I LOVE YOU! 💕💕💕</p>
-        <p style="margin-top: 10px; font-style: italic; color: #6c757d;">– Too late to run now. You picked me, suffer 😘</p>
+    <div style="padding: 1em; text-align: center;">
+        <h2 style="color: #d63384;">Soumya-isms 💖</h2>
+        <ul style="list-style-type: none; padding-left: 0; color: #ffb6c1; font-size: 1.1em;">
+            <li>Nap queen behavior 💤</li>
+            <li>Random voice notes at <span style="color: #ff9ecb;">2am</span></li>
+            <li>Calling me broski and then being cute 5 seconds later 😵‍💫</li>
+        </ul>
+        <div style="margin-top: 2rem;">
+            <h3 style="color: #ff1493; font-size: 2.2em; margin-bottom: 0.5em;">I LOVE YOU! 💕💕💕</h3>
+            <p style="font-style: italic; color: #6c757d; font-size: 1em;">– Too late to run now. You picked me, suffer 😘</p>
+        </div>
     </div>
-</div>
 """, unsafe_allow_html=True)
+
 
 st.markdown('<div class="heart-divider">🐻 🐼 🐨 🐶 🐱 🐰 🦄 🐣 🎈</div>', unsafe_allow_html=True)
